@@ -1,0 +1,21 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rosybrown;
+}
+h1{
+    text-align: center;
+    font-size: 4em;
+}
+.text{
+    text-align: center;
+    font-size: 2em;
+}
+.now{
+    text-align: center;
+    font-size: 10em;
+}
+img{
+    width: 300px;
+    margin-left: 25%;
+    width: 50%;
+}
